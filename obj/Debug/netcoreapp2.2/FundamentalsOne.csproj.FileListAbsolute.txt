@@ -1,0 +1,11 @@
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\FundamentalsOne\obj\Debug\netcoreapp2.2\FundamentalsOne.csprojAssemblyReference.cache
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\FundamentalsOne\obj\Debug\netcoreapp2.2\FundamentalsOne.csproj.CoreCompileInputs.cache
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\FundamentalsOne\obj\Debug\netcoreapp2.2\FundamentalsOne.AssemblyInfoInputs.cache
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\FundamentalsOne\obj\Debug\netcoreapp2.2\FundamentalsOne.AssemblyInfo.cs
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\FundamentalsOne\bin\Debug\netcoreapp2.2\FundamentalsOne.deps.json
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\FundamentalsOne\bin\Debug\netcoreapp2.2\FundamentalsOne.runtimeconfig.json
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\FundamentalsOne\bin\Debug\netcoreapp2.2\FundamentalsOne.runtimeconfig.dev.json
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\FundamentalsOne\bin\Debug\netcoreapp2.2\FundamentalsOne.dll
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\FundamentalsOne\bin\Debug\netcoreapp2.2\FundamentalsOne.pdb
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\FundamentalsOne\obj\Debug\netcoreapp2.2\FundamentalsOne.dll
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\FundamentalsOne\obj\Debug\netcoreapp2.2\FundamentalsOne.pdb
